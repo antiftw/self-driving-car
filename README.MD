@@ -2,7 +2,7 @@
 Implementation of a self-driving car using a Neural network to handle descision making. Following along with [this tutorial](https://www.youtube.com/watch?v=Rs_rAxEsAvI). 
 
 ## Instructions
-- For now just open index.html in a browser
+- For now just open index.html in Chrome. Have tried Firefox but that seems a lot slower on my PC.
 - More structured tweaking etc inc. (I think :))
 
 ## Credits
